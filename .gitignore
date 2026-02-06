@@ -26,3 +26,5 @@ dist/
 env.ps1
 .env
 .env.*
+git-filter-repo.py
+api_test.py
