@@ -14,6 +14,7 @@ reports/ > Test Execution Reports
 ----
 
 Setup:
+
 1.Create a virtual environment and install dependencies:
     pip install -r requirements.txt
 
