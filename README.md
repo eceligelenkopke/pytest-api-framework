@@ -20,10 +20,11 @@ Setup:
     pip install -r requirements.txt
 
 2. Copy environment variables file:
-    powershell
+
+   powershell
     Copy env.example.ps1 env.ps1
 
-3. Fill in your credentials inside env.ps1
+4. Fill in your credentials inside env.ps1
 
 Run all Tests:
 pytest
